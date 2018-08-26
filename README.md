@@ -14,4 +14,6 @@
 * [Spectrum Chat](https://github.com/CrowdArt/spectrum)
 * [Structuring a React Project](https://blog.bitsrc.io/structuring-a-react-project-a-definitive-guide-ac9a754df5eb)
 * [Tenzorum](https://tenzorum.org/)
+* [MyWish](https://ropsten.etherscan.io/address/0x2c940e5088f8edee1d642036dee0dedadd392a4f)
+* [MyWish Contracts](https://contracts.mywish.io/contracts/3040)
 * []()
