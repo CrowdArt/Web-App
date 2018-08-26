@@ -10,4 +10,6 @@
 * [MyEtherWallet](https://www.myetherwallet.com/#contracts)
 * [0fucks](https://raw.githubusercontent.com/bitfwdcommunity/Issue-your-own-ERC20-token/master/contracts/erc20_tutorial.sol)
 * [Ethereum Crowdsale](https://www.ethereum.org/crowdsale)
+* [Slack Lunch Club](https://blog.usejournal.com/slack-lunch-club-part-1-7-deep-dive-into-a-modern-web-app-d3eb980a215)
+* [Spectrum Chat](https://github.com/CrowdArt/spectrum)
 * []()
